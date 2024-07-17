@@ -1,10 +1,10 @@
-// 1-masala
+1-masala
 
-// let num = +prompt("Sonni kiriting ...");
-//  if( num > 0){
-//     num ++;
-//  } 
-//  console.log(num)
+let num = +prompt("Sonni kiriting ...");
+ if( num > 0){
+    num ++;
+ } 
+ console.log(num)
 
 // // 2-masala
 // let num = +prompt("Sonni kiriting ...");
